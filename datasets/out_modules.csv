@@ -1,0 +1,101 @@
+name;course_id;lecturer_id;room;semester
+Introduction to Computer Science;18;38;223;1
+Programming Fundamentals;95;21;192;2
+Data Structures and Algorithms;67;64;199;3
+Object-Oriented Programming;85;95;online;3
+Database Management Systems;57;20;online;1
+Web Development Basics;75;96;130;1
+Software Engineering Principles;96;44;online;1
+Network Fundamentals;28;40;100;4
+Operating Systems Concepts;38;81;278;2
+Cybersecurity Essentials;32;28;199;2
+Introduction to Artificial Intelligence;100;65;299;4
+Mobile Application Development;64;10;170;1
+Cloud Computing Fundamentals;99;76;143;2
+Human-Computer Interaction;52;51;141;2
+Software Testing and Quality Assurance;9;73;272;4
+Data Analytics and Visualization;29;8;online;4
+Internet of Things (IoT) Applications;33;88;191;4
+Computer Graphics and Visualization;85;30;169;2
+Introduction to Machine Learning;50;42;251;1
+Blockchain Technology Fundamentals;96;54;293;1
+Web Design and Development;13;47;online;4
+Computer Organization and Architecture;89;44;244;4
+Advanced Data Structures;97;57;105;3
+Object-Oriented Analysis and Design;22;72;105;3
+Relational Database Design;80;86;177;1
+Server-Side Web Development;50;16;262;1
+Software Project Management;79;23;199;1
+Network Security Principles;26;72;244;3
+Linux System Administration;56;4;online;1
+Ethical Hacking and Penetration Testing;96;24;244;2
+Natural Language Processing;82;87;119;1
+Mobile Game Development;19;91;143;2
+Cloud Infrastructure Management;63;68;208;1
+User Experience Design;78;78;297;1
+Agile Software Development;68;92;275;2
+Big Data Technologies;41;82;242;1
+Embedded Systems Programming;8;61;247;2
+Cryptography and Network Security;49;48;online;4
+Advanced Topics in Artificial Intelligence;70;52;277;1
+Web Application Security;96;70;198;1
+Responsive Web Design;68;34;251;1
+Distributed Systems Architecture;45;23;191;2
+Data Mining Techniques;2;10;151;2
+Computer Vision and Image Processing;16;5;224;4
+Quantum Computing Concepts;81;20;online;4
+Full-Stack Web Development;40;37;169;1
+Machine Learning for Cybersecurity;19;78;137;2
+Virtual Reality Development;52;54;137;2
+Cloud Security and Compliance;72;86;201;1
+Advanced Database Management;89;60;online;2
+Software Architecture Design;37;95;online;3
+Network Protocol Analysis;20;39;232;3
+Digital Forensics Investigation;33;62;online;2
+Robotics and Automation;95;22;136;1
+DevOps Principles and Practices;60;47;203;1
+Information Retrieval Techniques;31;55;127;4
+Game Design and Development;28;70;148;2
+Cryptocurrency and Blockchain Applications;55;96;202;4
+Microservices Architecture;29;10;online;2
+Reactive Programming;44;66;online;3
+Wireless Networking Technologies;2;52;260;3
+Information Security Management;51;67;online;3
+Computer-Assisted Design (CAD);30;92;106;3
+Enterprise Resource Planning (ERP) Systems;13;7;online;3
+Natural User Interfaces;65;5;117;2
+Data Warehousing and Business Intelligence;76;63;130;3
+Mobile Device Management;39;33;256;1
+Cloud-Native Application Development;34;2;online;1
+Secure Software Development;82;89;202;3
+Advanced Machine Learning Algorithms;93;63;153;4
+Augmented Reality Applications;55;31;online;1
+Cyber Threat Intelligence;41;27;202;3
+Cloud Data Storage Solutions;17;60;208;4
+Data Privacy and Compliance;37;44;128;3
+Network Traffic Analysis;19;47;185;2
+Embedded Systems Design;24;43;299;3
+Front-End Frameworks and Libraries;97;24;193;4
+Blockchain-Based Smart Contracts;20;57;295;2
+Microcontroller Programming;91;51;242;1
+Continuous Integration and Deployment (CI/CD);93;20;200;4
+Distributed Ledger Technologies;43;83;online;3
+Advanced Human-Computer Interaction;33;23;online;4
+Network Penetration Testing;95;92;249;3
+Data Science and Predictive Analytics;29;58;online;2
+Social Engineering Awareness;79;97;196;4
+Cloud Service Models and Deployment;2;99;241;1
+Cryptographic Protocols;1;92;online;3
+Advanced Web Security Techniques;67;64;287;4
+Information Security Risk Management;2;92;108;1
+Computer-Aided Manufacturing (CAM);83;88;225;3
+Enterprise Software Integration;97;71;online;3
+Mobile Cloud Computing;87;54;133;1
+Natural Language Generation;31;76;293;1
+Real-Time Operating Systems;98;60;132;2
+Cloud Application Development;68;27;299;3
+Secure Coding Practices;86;64;203;3
+Malware Analysis and Reverse Engineering;4;17;192;4
+Internet Security Protocols;36;66;239;3
+Virtualization Technologies;11;90;173;3
+Advanced Topics in Quantum Computing;8;45;241;1
